@@ -1,0 +1,12 @@
+/*Brno styles*/
+
+.shot {
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.shot img {
+    width: 100%;
+}
